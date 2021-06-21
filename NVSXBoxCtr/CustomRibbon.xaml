@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RibbonControl 
+    x:Uid="CustomRibbonTab" xmlns="clr-namespace:Autodesk.Windows;assembly=AdWindows" 
+    xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:adwi="clr-namespace:Autodesk.Internal.Windows;assembly=AdWindows"  
+    xmlns:system="clr-namespace:System;assembly=mscorlib" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Autodesk.Navisworks.Gui.Roamer.AIRLook;assembly=navisworks.gui.roamer"
+    xmlns:vm="clr-namespace:NVSXBOX"
+    mc:Ignorable="d"
+    d:DataContext="{d:DesignInstance Type=vm:Debug}"
+    >
+    
+    
+    <!-- END STANDARD SECTION DO NOT EDIT -->
+
+    <RibbonTab Id="ID_CustomTab_1" Title="CtrlWiz" >
+        <RibbonPanel x:Uid="RibbonPanel_1" >
+            <RibbonPanelSource x:Uid="RibbonPanelSource_RibbonPanel_1" KeyTip="C1" Title="XBox Controller" >
+                <local:NWRibbonButton x:Uid="Button_1" Id="ID_Button_1" Size="Large" ShowText="True" Orientation="Vertical" />
+                <local:NWRibbonButton x:Uid="Button_2" Id="ID_Button_2" Size="Large" ShowText="True" Orientation="Vertical" />
+                <local:NWRibbonButton x:Uid="Button_3" Id="ID_Button_3" Size="Large" ShowText="True" Orientation="Vertical"/>
+                <local:NWRibbonButton x:Uid="Button_4" Id="ID_Button_4" Size="Large" ShowText="True" Orientation="Vertical"/>
+                <local:NWRibbonButton x:Uid="Button_5" Id="ID_Button_5" Size="Large" ShowText="True" Orientation="Vertical"/>
+
+   
+                <!--<local:NWRibbonMenuButton x:Uid="Button_4" Id="ID_Button_4"
+                                       IsSynchronizedWithCurrentItem="False"
+                                       IsSplit="False"
+                                       ShowText="True"  
+                                       Orientation="Vertical"
+                                       Size="Large">
+                    <local:NWRibbonMenuItem x:Uid="Button_4" Id="ID_Button_4"
+                                       ShowText="True" 
+                                       Size="Standard"
+                                        />
+                    <local:NWRibbonFloatSlider x:Uid="Slider_5" Id="ID_Slider_5"
+                                       ShowText="True" 
+                                       Size="Standard"
+                                      />
+                </local:NWRibbonMenuButton>-->
+            </RibbonPanelSource>
+            
+            
+
+        </RibbonPanel>
+    </RibbonTab>
+</RibbonControl>
+<!-- END STANDARD SECTION DO NOT EDIT -->

@@ -1,0 +1,2 @@
+D:\OneDrive\WorkspaceNaviswork\NVSXBoxCtr\NVSXBoxCtr\obj\Debug\NVSXBoxCtr.csprojAssemblyReference.cache
+D:\OneDrive\WorkspaceNaviswork\NVSXBoxCtr\NVSXBoxCtr\obj\Debug\NVSXBoxCtr.ATLAS_MarkupCompile.cache

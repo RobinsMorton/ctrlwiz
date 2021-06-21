@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RVTXBoxCtr</Name>
+    <Assembly>C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Debug\RVTXBoxCtr.dll</Assembly>
+    <AddInId>6CCA3F00-9C2A-49FE-9338-20EACC584D97</AddInId>
+    <FullClassName>RVTXBoxCtr.ExAppViewpoint</FullClassName>
+    <Text>RVTXBoxCtr</Text>
+    <VendorId>VT</VendorId>
+  </AddIn>
+</RevitAddIns>

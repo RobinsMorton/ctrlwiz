@@ -1,0 +1,15 @@
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\XInputDotNetPure\bin\Release\XInputDotNetPure.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\XInputDotNetPure\bin\Release\XInputDotNetPure.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.csproj.CoreCompileInputs.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.pdb
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\bin\Release\XInputDotNetPure.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\bin\Release\XInputDotNetPure.pdb
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.csproj.CoreCompileInputs.cache
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\bin\Release\XInputDotNetPure.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\bin\Release\XInputDotNetPure.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.csproj.CoreCompileInputs.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\XInputDotNetPure\obj\Release\XInputDotNetPure.pdb

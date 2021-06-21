@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="Naviswork" Name="CtrlWiz Xbox Controller" Description="Control and Navigate your BIM model with an Xbox Controller." AppVersion="1.0.7" FriendlyVersion="1.0.7" ProductType="Application" HelpFile="./Contents/Help.html" SupportedLocales="Enu" AppNameSpace="appstore.exchange.autodesk.com" OnlineDocumentation="https://buildfore.com" Author="BUILDFORE" ProductCode="{9BA04D50-9908-4192-969D-2B90EAB76F8E}" UpgradeCode="{DDB48704-E1ED-4495-90CF-45109C058703}" Icon="./Contents/Xbox.ico">
+  <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <!--xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-->
+  <CompanyDetails Name="BUILDFORE" Url="https://buildfore.com" Email="support@buildfore.com" />
+  <Components Description="2016 parts">
+    <RuntimeRequirements OS="Win64" Platform="NAVMAN|NAVSIM" SeriesMin="Nw13" SeriesMax="Nw13" />
+    <ComponentEntry AppName="CtrlWiz / Xbox Controller" AppType="ManagedPlugin" Version="1.0.7" ModuleName="./Contents/v12/NVSXBoxCtr.ATLAS.dll" AppDescription="CtrlWiz / Xbox Controller" />
+  </Components>
+  <Components Description="2017 parts">
+    <RuntimeRequirements OS="Win64" Platform="NAVMAN|NAVSIM" SeriesMin="Nw14" SeriesMax="Nw14" />
+    <ComponentEntry AppName="CtrlWiz / Xbox Controller" AppType="ManagedPlugin" Version="1.0.7" ModuleName="./Contents/v13/NVSXBoxCtr.ATLAS.dll" AppDescription="CtrlWiz / Xbox Controller" />
+  </Components>
+  <Components Description="2018 parts">
+    <RuntimeRequirements OS="Win64" Platform="NAVMAN|NAVSIM" SeriesMin="Nw15" SeriesMax="Nw15" />
+    <ComponentEntry AppName="CtrlWiz / Xbox Controller" AppType="ManagedPlugin" Version="1.0.7" ModuleName="./Contents/v14/NVSXBoxCtr.ATLAS.dll" AppDescription="CtrlWiz / Xbox Controller" />
+  </Components>
+  <Components Description="2019 parts">
+    <RuntimeRequirements OS="Win64" Platform="NAVMAN|NAVSIM" SeriesMin="Nw16" SeriesMax="Nw16" />
+    <ComponentEntry AppName="CtrlWiz / Xbox Controller" AppType="ManagedPlugin" Version="1.0.7" ModuleName="./Contents/v15/NVSXBoxCtr.ATLAS.dll" AppDescription="CtrlWiz / Xbox Controller" />
+  </Components>
+  <Components Description="2020 parts">
+    <RuntimeRequirements OS="Win64" Platform="NAVMAN|NAVSIM" SeriesMin="Nw17" SeriesMax="Nw17" />
+    <ComponentEntry AppName="CtrlWiz / Xbox Controller" AppType="ManagedPlugin" Version="1.0.7" ModuleName="./Contents/v16/NVSXBoxCtr.ATLAS.dll" AppDescription="CtrlWiz / Xbox Controller" />
+  </Components>
+</ApplicationPackage>

@@ -1,0 +1,49 @@
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\NVSXBoxCtr.ATLAS.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\NVSXBoxCtr.ATLAS.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\AdWindows.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\Autodesk.Navisworks.Api.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\Autodesk.Navisworks.Api.xml
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\de-DE\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\en-US\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\es-ES\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\fr-FR\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\it-IT\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\ja-JP\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\ko-KR\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\pt-BR\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\ru-RU\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\zh-CN\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\bin\x64\Release\zh-TW\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS_MarkupCompile.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS_MarkupCompile.lref
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\CustomRibbon.baml
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS.g.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.FormDebug.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Form_Expired.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Form_Help.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Form_SpeedSetting.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Properties.Resources.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csproj.GenerateResource.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csproj.CoreCompileInputs.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csproj.CopyComplete
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVSXBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\bin\x64\Release\NVSXBoxCtr.ATLAS.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\bin\x64\Release\NVSXBoxCtr.ATLAS.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\bin\x64\Release\XInputDotNetPure.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\bin\x64\Release\XInputDotNetPure.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csprojAssemblyReference.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS_MarkupCompile.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS_MarkupCompile.lref
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\CustomRibbon.baml
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS.g.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.FormDebug.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Form_Expired.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Form_Help.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Form_SpeedSetting.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBOX.Properties.Resources.resources
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csproj.GenerateResource.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csproj.CoreCompileInputs.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.csproj.CopyComplete
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS&RVT XBoxCtr\01_WORKING\NVS&RVT XBoxCtr\NVSXBoxCtr\obj\x64\Release\NVSXBoxCtr.ATLAS.pdb

@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0751EC69-4619-46D1-915E-01D38098A6FC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>NVSXBOX</RootNamespace>
+    <AssemblyName>NVSXBoxCtr.ATLAS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <AdWindowsPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\AdWindows.dll</AdWindowsPath>
+    <AutodeskNavisworksApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.Api.dll</AutodeskNavisworksApiPath>
+    <navisworksguiroamerPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\navisworks.gui.roamer.dll</navisworksguiroamerPath>
+    <AutodeskNavisworksClashPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.Clash.dll</AutodeskNavisworksClashPath>
+    <AutodeskNavisworksComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.ComApi.dll</AutodeskNavisworksComApiPath>
+    <AutodeskNavisworksInteropComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.Interop.ComApi.dll</AutodeskNavisworksInteropComApiPath>
+    <navisworksguiinterfacePath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\navisworks.gui.interface.dll</navisworksguiinterfacePath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R16|x64'">
+    <AdWindowsPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\AdWindows.dll</AdWindowsPath>
+    <AutodeskNavisworksApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\Autodesk.Navisworks.Api.dll</AutodeskNavisworksApiPath>
+    <navisworksguiroamerPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\navisworks.gui.roamer.dll</navisworksguiroamerPath>
+    <AutodeskNavisworksClashPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\Autodesk.Navisworks.Clash.dll</AutodeskNavisworksClashPath>
+    <AutodeskNavisworksComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\Autodesk.Navisworks.ComApi.dll</AutodeskNavisworksComApiPath>
+    <AutodeskNavisworksInteropComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\Autodesk.Navisworks.Interop.ComApi.dll</AutodeskNavisworksInteropComApiPath>
+    <navisworksguiinterfacePath>$(ProgramW6432)\Autodesk\Navisworks Manage 2016\navisworks.gui.interface.dll</navisworksguiinterfacePath>
+    <OutputPath>bin\R16\</OutputPath>
+    <DefineConstants>TRACE;NW2016</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R17|x64'">
+    <AdWindowsPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\AdWindows.dll</AdWindowsPath>
+    <AutodeskNavisworksApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\Autodesk.Navisworks.Api.dll</AutodeskNavisworksApiPath>
+    <navisworksguiroamerPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\navisworks.gui.roamer.dll</navisworksguiroamerPath>
+    <AutodeskNavisworksClashPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\Autodesk.Navisworks.Clash.dll</AutodeskNavisworksClashPath>
+    <AutodeskNavisworksComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\Autodesk.Navisworks.ComApi.dll</AutodeskNavisworksComApiPath>
+    <AutodeskNavisworksInteropComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\Autodesk.Navisworks.Interop.ComApi.dll</AutodeskNavisworksInteropComApiPath>
+    <navisworksguiinterfacePath>$(ProgramW6432)\Autodesk\Navisworks Manage 2017\navisworks.gui.interface.dll</navisworksguiinterfacePath>
+    <OutputPath>bin\R17\</OutputPath>
+    <DefineConstants>TRACE;NW2017</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R18|x64'">
+    <AdWindowsPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\AdWindows.dll</AdWindowsPath>
+    <AutodeskNavisworksApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\Autodesk.Navisworks.Api.dll</AutodeskNavisworksApiPath>
+    <navisworksguiroamerPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\navisworks.gui.roamer.dll</navisworksguiroamerPath>
+    <AutodeskNavisworksClashPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\Autodesk.Navisworks.Clash.dll</AutodeskNavisworksClashPath>
+    <AutodeskNavisworksComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\Autodesk.Navisworks.ComApi.dll</AutodeskNavisworksComApiPath>
+    <AutodeskNavisworksInteropComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\Autodesk.Navisworks.Interop.ComApi.dll</AutodeskNavisworksInteropComApiPath>
+    <navisworksguiinterfacePath>$(ProgramW6432)\Autodesk\Navisworks Manage 2018\navisworks.gui.interface.dll</navisworksguiinterfacePath>
+    <OutputPath>bin\R18\</OutputPath>
+    <DefineConstants>TRACE;NW2018</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R19|x64'">
+    <AdWindowsPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\AdWindows.dll</AdWindowsPath>
+    <AutodeskNavisworksApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Api.dll</AutodeskNavisworksApiPath>
+    <navisworksguiroamerPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\navisworks.gui.roamer.dll</navisworksguiroamerPath>
+    <AutodeskNavisworksClashPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Clash.dll</AutodeskNavisworksClashPath>
+    <AutodeskNavisworksComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.ComApi.dll</AutodeskNavisworksComApiPath>
+    <AutodeskNavisworksInteropComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\Autodesk.Navisworks.Interop.ComApi.dll</AutodeskNavisworksInteropComApiPath>
+    <navisworksguiinterfacePath>$(ProgramW6432)\Autodesk\Navisworks Manage 2019\navisworks.gui.interface.dll</navisworksguiinterfacePath>
+    <OutputPath>bin\R19\</OutputPath>
+    <DefineConstants>TRACE;NW2019</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R20|x64'">
+    <AdWindowsPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\AdWindows.dll</AdWindowsPath>
+    <AutodeskNavisworksApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.Api.dll</AutodeskNavisworksApiPath>
+    <navisworksguiroamerPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\navisworks.gui.roamer.dll</navisworksguiroamerPath>
+    <AutodeskNavisworksClashPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.Clash.dll</AutodeskNavisworksClashPath>
+    <AutodeskNavisworksComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.ComApi.dll</AutodeskNavisworksComApiPath>
+    <AutodeskNavisworksInteropComApiPath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\Autodesk.Navisworks.Interop.ComApi.dll</AutodeskNavisworksInteropComApiPath>
+    <navisworksguiinterfacePath>$(ProgramW6432)\Autodesk\Navisworks Manage 2020\navisworks.gui.interface.dll</navisworksguiinterfacePath>
+    <OutputPath>bin\R20\</OutputPath>
+    <DefineConstants>TRACE;NW2020</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>C:\ProgramData\Autodesk\ApplicationPlugins\NWXBoxCtr.ATLAS.bundle\Contents\v16\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R16|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\R16\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R17|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\R17\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R18|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\R18\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R19|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\R19\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R20|x64'">
+    <OutputPath>bin\R20\</OutputPath>
+    <DefineConstants>TRACE;NW2020</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R20|AnyCPU'">
+    <OutputPath>bin\R20\</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DefineConstants>DEBUG</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="CustomRibbon.name" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NVSXBOX\CmdInput.cs" />
+    <Compile Include="NVSXBOX\CmdTool.cs" />
+    <Compile Include="NVSXBOX\CmdViewpoint.cs" />
+    <Compile Include="NVSXBOX\Debug.cs" />
+    <Compile Include="NVSXBOX\FormDebug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVSXBOX\FormDebug.Designer.cs">
+      <DependentUpon>FormDebug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVSXBOX\Form_Expired.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVSXBOX\Form_Expired.Designer.cs">
+      <DependentUpon>Form_Expired.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVSXBOX\Form_Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVSXBOX\Form_Help.Designer.cs">
+      <DependentUpon>Form_Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVSXBOX\Form_SpeedSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NVSXBOX\Form_SpeedSetting.Designer.cs">
+      <DependentUpon>Form_SpeedSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NVSXBOX\MathExtension.cs" />
+    <Compile Include="NVSXBOX\NavisUtils.cs" />
+    <Compile Include="Paddle\InAppCheckoutArgs.cs" />
+    <Compile Include="Paddle\ActivationChangedArgs.cs" />
+    <Compile Include="Paddle\InAppCheckout.cs" />
+    <Compile Include="Paddle\InAppCheckoutStatus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Singleton.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="AdWindows">
+      <HintPath>$(AdWindowsPath)</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.Api">
+      <HintPath>$(AutodeskNavisworksApiPath)</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="navisworks.gui.roamer">
+      <HintPath>$(navisworksguiroamerPath)</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.Clash">
+      <HintPath>$(AutodeskNavisworksClashPath)</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.ComApi">
+      <HintPath>$(AutodeskNavisworksComApiPath)</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Autodesk.Navisworks.Interop.ComApi">
+      <HintPath>$(AutodeskNavisworksInteropComApiPath)</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="navisworks.gui.interface">
+      <HintPath>$(navisworksguiinterfacePath)</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="CredentialManagement, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CredentialManagement.1.0.2\lib\net35\CredentialManagement.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Interop.SHDocVw">
+      <HintPath>..\packages\Interop.SHDocVw\Interop.SHDocVw.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PaddleSDK, Version=2.0.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Paddle.PaddleSDK.2.0.5\lib\net35\PaddleSDK.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="StructureMap, Version=2.6.3.0, Culture=neutral, PublicKeyToken=e60ad81abae3c223, processorArchitecture=MSIL">
+      <HintPath>..\packages\structuremap.2.6.3\lib\StructureMap.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="CustomRibbon.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Help28.png" />
+    <Content Include="Images\Idea.png" />
+    <Content Include="Images\License.png" />
+    <Content Include="Images\MainHelp.png" />
+    <Content Include="Images\Setting.ico" />
+    <Content Include="Images\XboxIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NVSXBOX\FormDebug.resx">
+      <DependentUpon>FormDebug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVSXBOX\Form_Expired.resx">
+      <DependentUpon>Form_Expired.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVSXBOX\Form_Help.resx">
+      <DependentUpon>Form_Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NVSXBOX\Form_SpeedSetting.resx">
+      <DependentUpon>Form_SpeedSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XInputDotNetPure\XInputDotNetPure.csproj">
+      <Project>{992a8698-0136-49bb-82dd-a477c899395b}</Project>
+      <Name>XInputDotNetPure</Name>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>True</Private>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R16|AnyCPU'">
+    <PostBuildEvent>
+		IF EXIST "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\" rmdir /S /Q "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\"
+		xcopy /Y "$(TargetPath)" "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\en-US
+		copy /Y "$(ProjectDir)CustomRibbon.xaml" "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\en-US\"
+
+		copy /Y "$(ProjectDir)CustomRibbon.name" "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\en-US\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\Images
+		xcopy /Y "$(ProjectDir)Images\*.*" "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\Images\"
+
+		xcopy /Y "D:\OneDrive\WorkspaceNaviswork\XInputDotNet-master\BinariesX64\Release\XInputInterface.dll" "C:\Program Files\Autodesk\Navisworks Manage 2016\Plugins\$(TargetName)\"
+	</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R17|AnyCPU'">
+    <PostBuildEvent>
+		IF EXIST "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\" rmdir /S /Q "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\"
+		xcopy /Y "$(TargetPath)" "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\en-US
+		copy /Y "$(ProjectDir)CustomRibbon.xaml" "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\en-US\"
+
+		copy /Y "$(ProjectDir)CustomRibbon.name" "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\en-US\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\Images
+		xcopy /Y "$(ProjectDir)Images\*.*" "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\Images\"
+
+		xcopy /Y "D:\OneDrive\WorkspaceNaviswork\XInputDotNet-master\BinariesX64\Release\XInputInterface.dll" "C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\$(TargetName)\"
+	</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R18|AnyCPU'">
+    <PostBuildEvent>
+		IF EXIST "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\" rmdir /S /Q "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\"
+		xcopy /Y "$(TargetPath)" "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\en-US
+		copy /Y "$(ProjectDir)CustomRibbon.xaml" "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\en-US\"
+
+		copy /Y "$(ProjectDir)CustomRibbon.name" "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\en-US\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\Images
+		xcopy /Y "$(ProjectDir)Images\*.*" "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\Images\"
+
+		xcopy /Y "D:\OneDrive\WorkspaceNaviswork\XInputDotNet-master\BinariesX64\Release\XInputInterface.dll" "C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\$(TargetName)\"
+	</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'R19|AnyCPU'">
+    <PostBuildEvent>
+		IF EXIST "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\" rmdir /S /Q "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\"
+		xcopy /Y "$(TargetPath)" "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\en-US
+		copy /Y "$(ProjectDir)CustomRibbon.xaml" "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\en-US\"
+
+		copy /Y "$(ProjectDir)CustomRibbon.name" "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\en-US\"
+
+		mkdir "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\Images
+		xcopy /Y "$(ProjectDir)Images\*.*" "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\Images\"
+
+		xcopy /Y "D:\OneDrive\WorkspaceNaviswork\XInputDotNet-master\BinariesX64\Release\XInputInterface.dll" "C:\Program Files\Autodesk\Navisworks Manage 2019\Plugins\$(TargetName)\"
+	</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

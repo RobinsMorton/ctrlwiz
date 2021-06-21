@@ -1,0 +1,151 @@
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RVTXBoxCtr.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RVTXBoxCtr.pdb
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPIUI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\XInputDotNetPure.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPIFoundation.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\PersistenceDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\UtilityAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\APIDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\GraphicsAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ElementGroupDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EssentialsDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\GeomUtilAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\FamilyDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DetailDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\CurtainGridFamilyDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ArrayElemsDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EnergyAnalysisDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\BuildingSystemsDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\HostObjDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RoomAreaPlanDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\SiteDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\SculptingDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\StructuralDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\InterfaceAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\InterfaceUtilAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RebarDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\StructuralAnalysisDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\MassingDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AssemblyDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DPartDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\NumberingDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\PointCloudAccessAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\StairRampDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AnalysisAppsDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\MaterialDBAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DBManagedServices.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AdWindows.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAddInUtility.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\APIInterop.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\UIFramework.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AddInManager.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitUIAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\BuildingSystemsUIAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DesktopMFCAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\APIUIAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitMFCAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EssentialsUIAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EnergyAnalysisUtilitiesAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DetailUIAPI.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\UIFrameworkServices.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\Xceed.Wpf.AvalonDock.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\XInputDotNetPure.pdb
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPI.xml
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPIUI.xml
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\cs-CZ\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\de-DE\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\en-GB\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\en-US\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\es-ES\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\fr-FR\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\it-IT\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ja-JP\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ko-KR\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\pl-PL\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\pt-BR\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ru-RU\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\zh-CN\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\zh-TW\AdWindows.resources.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.csprojAssemblyReference.cache
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.csproj.CoreCompileInputs.cache
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.csproj.CopyComplete
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.dll
+E:\OneDrive\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RVTXBoxCtr.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RVTXBoxCtr.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPIUI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\XInputDotNetPure.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPIFoundation.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\PersistenceDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\UtilityAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\APIDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\GraphicsAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ElementGroupDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EssentialsDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\GeomUtilAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\FamilyDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DetailDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\CurtainGridFamilyDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ArrayElemsDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EnergyAnalysisDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\BuildingSystemsDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\HostObjDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RoomAreaPlanDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\SiteDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\SculptingDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\StructuralDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\InterfaceAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\InterfaceUtilAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RebarDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\StructuralAnalysisDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\MassingDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AssemblyDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DPartDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\NumberingDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\PointCloudAccessAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\StairRampDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AnalysisAppsDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\MaterialDBAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DBManagedServices.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AdWindows.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAddInUtility.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\APIInterop.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\UIFramework.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\AddInManager.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitUIAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\BuildingSystemsUIAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DesktopMFCAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\APIUIAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitMFCAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EssentialsUIAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\EnergyAnalysisUtilitiesAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\DetailUIAPI.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\UIFrameworkServices.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ManagedMC3.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\XInputDotNetPure.pdb
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPI.xml
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\RevitAPIUI.xml
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\cs-CZ\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\de-DE\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\en-GB\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\en-US\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\es-ES\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\fr-FR\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\it-IT\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ja-JP\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ko-KR\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\pl-PL\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\pt-BR\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\ru-RU\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\zh-CN\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\bin\Release\zh-TW\AdWindows.resources.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.csprojAssemblyReference.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.csproj.CoreCompileInputs.cache
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.csproj.CopyComplete
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.dll
+C:\OneDrive\WORK FOLDER\01 IN PROGRESS\NVS_RVT_XBoxCtr\01_WORKING\NVS_RVT_XBoxCtr\RVTXBoxCtr\obj\Release\RVTXBoxCtr.pdb
