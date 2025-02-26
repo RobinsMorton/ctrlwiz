@@ -1,7 +1,7 @@
 # License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-Please credit [Robins & Morton](https://www.robinsmorton.com) and [ViaTechnic](https://www.viatechnic.com) with any derivitives.
+Please credit [Robins & Morton](https://www.robinsmorton.com) and [ViaTechnik](https://www.viatechnik.com/) with any derivitives.
 
 Please contact us if you'd like to help maintain this project.  
 
